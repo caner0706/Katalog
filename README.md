@@ -2,7 +2,7 @@
 Bu Flutter uygulaması, farklı kategorilerdeki içerikleri görüntüleyen bir katalog uygulamasıdır. Her kategori, başlıklar listesiyle birlikte açıklama ve bir kategori resmi içerir.
 
 ![Uygulama Ekran Görüntüsü](https://github.com/caner0706/Katalog/blob/Caner/images/1.png)
-![Uygulama Ekran Görüntüsü](https://github.com/caner0706/Katalog/blob/Caner/images/3.png)
+![Uygulama Ekran Görüntüsü](https://github.com/caner0706/Katalog/blob/Caner/images/2.png)
 ![Uygulama Ekran Görüntüsü](https://github.com/caner0706/Katalog/blob/Caner/images/4.png)
 ![Uygulama Ekran Görüntüsü](https://github.com/caner0706/Katalog/blob/Caner/images/5.png)
 
